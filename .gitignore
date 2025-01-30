@@ -50,6 +50,4 @@ po/*~
 rsconnect/
 
 # Data, because NDA
-data/
-pics/
 *.DS_Store
